@@ -69,7 +69,7 @@
 🖼️ **Entregables de diseño:**
 
 - <p align="center">
-  <a href=https://github.com/Felipehincacode/Beacoder_app/blob/main/Be%20a%20coder_Final.pdf" target="_blank">
+  <a href="https://github.com/Felipehincacode/Beacoder_app/blob/main/Be%20a%20coder_Final.pdf" target="_blank">
     Link al pdf
   </a>
 </p>
