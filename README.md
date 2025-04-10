@@ -69,7 +69,7 @@
 🖼️ **Entregables de diseño:**
 
 - <p align="center">
-  <a href="https://www.figma.com/design/7IlKIdH5nFi9mJ9si3VH0N/Beacoder-desing?node-id=1-4670&t=uCMs8bNSdFegSxfc-1" target="_blank">
+  <a href=https://www.canva.com/design/DAGkPeBkyE8/sbzB6VajWZ8KNcxkmPmspg/edit?utm_content=DAGkPeBkyE8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
     <img src="https://img.shields.io/badge/🎨%20Ver%20en%20Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white" alt="Botón de Figma" />
   </a>
 </p>
