@@ -89,7 +89,7 @@
 > Se permitirá crear un usuario por medio de un formulario. Se pedirá nombre de usuario y contraseña (doble validación). Luego podrá iniciar sesión con validación de datos.
 
 <p align="center">
-  <img src="./code.jpg" alt="Vista previa del algoritmo" width="600"/>
+  <img src="./code.png" alt="Vista previa del algoritmo" width="600"/>
 </p>
 
 ---
