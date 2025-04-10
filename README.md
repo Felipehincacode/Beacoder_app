@@ -1,10 +1,10 @@
 <!-- 🌈 BANNER INICIAL -->
-<a href="https://www.canva.com/design/DAGkPScZirE/osXT9vjZ6svGVvTkGQLBuA/edit?utm_content=DAGkPScZirE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+<a style="text-decoration: none;" href="https://www.canva.com/design/DAGkPScZirE/osXT9vjZ6svGVvTkGQLBuA/edit?utm_content=DAGkPScZirE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
           <img src="./logo.png" alt="Banner del proyecto Beacoder" width="100%" />
-          <h1>  <font color="red" > Beacoder </font>      </h1>
+          <a style="text-decoration: none;">   casa linda   <a>
 </a>
 
-<img src="
+
 
 # 🚀 Beacoder_app  
 **Código para una app ejemplo de estudiantes en Riwi**
