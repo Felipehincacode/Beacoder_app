@@ -1,0 +1,35 @@
+Algoritmo registro_usuarios
+	definir user, password, verifyUser, verifyPassword Como Caracter
+	//El siguiente registro de usuarios va dentro de un formulario
+	Escribir 'cree un usuario: '
+	leer User
+	Escribir 'Cree una contraseña'
+	leer password
+	Escribir 'Confirme la contraseña'
+	leer verifyPassword
+	//El usuario y la contraseña se guardan en la memoria de sesion
+	
+	si password <> verifyPassword Entonces  //si las contraseñas no coinciden, debe verificarlas e intentar de nuevo
+		escribir 'Las contraseñas no coinciden'
+	SiNo  //Si las contraseñas coinciden, continúa al inicio de sesión
+		Limpiar Pantalla
+		Escribir 'Usuario creado exitosamente, presione una tecla para ir al inicio de sesion'
+		Esperar Tecla
+		Limpiar Pantalla
+		Escribir 'Bienvenido al login'
+		
+		
+		Escribir 'Ingrese su usuario: '
+		leer verifyUser
+		Escribir 'Ingrese su contraseña: '
+		leer verifyPassword
+		
+		si User = verifyUser Y password = verifyPassword Entonces  //si el usuario y la contraseña coinciden, ingresa al sistema
+			Limpiar Pantalla
+			Escribir 'Ingresaste al sistema'
+		sino //Si no, no ingresa
+			Escribir 'Usuario o contraseña incorrecto'
+			
+		FinSi
+	FinSi
+FinAlgoritmo
