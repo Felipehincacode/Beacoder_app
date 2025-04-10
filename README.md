@@ -119,14 +119,14 @@
 
 📦 **Estrategia de despliegue:**
 
-- 🚀 **Frontend:** Deploy en [Netlify](https://www.netlify.com/) o [Vercel](https://vercel.com/)
-- 🛠️ **Backend y Base de datos:** [Render](https://render.com/) o servidor propio con MongoDB Atlas
-- 🛍️ **Almacenamiento futuro:** Stores tipo Google Play, App Store si se convierte en PWA o app móvil
+- 🚀 **Frontend:** Vercel o Firebase Hosting
+- 🛠️ **Backend y Base de datos:** Servidor propio con MongoDB Atlas o Firebase Firestore. 
+- 📲 **Almacenamiento de la app:** Stores tipo Google Play, App Store.
 
 🛠️ **Mejoras futuras:**
 
-1. 🎯 Sistema de logros y recompensas por hitos
-2. 🌐 Soporte para múltiples idiomas e internacionalización
+1. 🎯 Funcionalidad de premios o logros desbloqueables que puedan ser compartidos en una sección tipo foro, en dónde otros coders puedan reaccionar y comentar para fomentar el apoyo y el aprendizaje colaborativo.
+2. 🌐 Multilenguaje; Funcionalidad que permita cambiar el idioma de la interfaz (español <-> inglés), para que sea el coder quien decida en qué idioma hará su ruta de aprendizaje, lo cuál permitiría practicar vocabulario técnico y compresión lectora en inglés.
 
 ---
 
