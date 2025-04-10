@@ -40,7 +40,9 @@
 
 🖼️ **Entregables de diseño:**
 
-- ✍️ Bocetos de 2 pantallas clave (papel o digital)
+- ✍️  <a href="https://www.figma.com/file/tu-archivo-id"  target="_blank">
+   Ver prototipo en Figma
+</a>
 - 🔄 Diagrama simple del flujo de usuario
 
 ---
