@@ -93,36 +93,24 @@
 </p>
 
 ---
-
 ## 🧪 Bloque 5 – Pruebas (10 min)
 
-👤 **Responsable:** Juan Pablo
+👤 **Responsable:** Juan Pablo (QA Tester)
 
-🧬 **Redactar 3 casos de prueba funcionales:**
+### ⚙️ **Casos funcionales:**
 
-1. **Registro exitoso de usuario**
-   - **Dado:** un formulario con campos válidos (nombre de usuario y contraseñas coincidentes)  
-   - **Cuando:** el usuario hace clic en "Registrarse"  
-   - **Entonces:** se crea la cuenta y redirige al login
+   - **Caso 1:** Cuando se inicia sesión, se muestra mi ruta de aprendizaje actual e indicadores de progresión actualizados.
+   - **Caso 2:** En caso de no terminar la sesión de estudio o la prueba de aprendizaje ésta no se cuenta en el progreso ni tampoco, suma como puntaje en la tabla de posiciones.
+   - **Caso 3:** Al revisar la tabla de clasificación se muestra en tiempo real mi posición y la de los demás users de la división ó categoría.
 
-2. **Inicio de sesión con credenciales correctas**
-   - **Dado:** un usuario registrado  
-   - **Cuando:** introduce su usuario y contraseña correctamente  
-   - **Entonces:** puede acceder a la plataforma
+---
 
-3. **Restricción de acceso sin código de Riwi**
-   - **Dado:** un formulario de registro  
-   - **Cuando:** un usuario sin código Riwi intenta registrarse  
-   - **Entonces:** el sistema muestra un mensaje de error e impide el acceso
+### ⁉️ **Posibles errores:**
 
-⚠️ **Anticipación de posibles errores:**
-
-- Contraseñas que no coinciden → advertencia
-- Usuario ya registrado → alerta y evitar duplicados
-- Campos vacíos o inválidos → bloqueo del formulario
-- Intento de ingreso sin autenticación → redirección al login
-- Fallo del servidor → mensaje de error general
-
+   - Errores de sintaxis
+   - Error al declarar variables
+   - Problemas de optimización al ejecutar codigo en la plataforma
+   - Error al actualizar información luego de realizar alguna actividad    
 ---
 
 ## 🚢 Bloque 6 – Despliegue y Mantenimiento (5 min)
