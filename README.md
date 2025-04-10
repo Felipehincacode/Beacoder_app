@@ -40,7 +40,7 @@
 
 🖼️ **Entregables de diseño:**
 
-- ✍️  <a href="[https://www.figma.com/file/tu-archivo-id](https://www.figma.com/design/7IlKIdH5nFi9mJ9si3VH0N/Beacoder-desing?node-id=1-4670&t=uCMs8bNSdFegSxfc-1)"  target="_blank">
+- ✍️  <a href="https://www.figma.com/design/7IlKIdH5nFi9mJ9si3VH0N/Beacoder-desing?node-id=1-4670&t=uCMs8bNSdFegSxfc-1"  target="_blank">
    Ver prototipo en Figma
 </a>
 - 🔄 Diagrama simple del flujo de usuario
