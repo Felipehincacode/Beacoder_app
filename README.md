@@ -1,7 +1,9 @@
 <!-- 🌈 BANNER INICIAL -->
-<p align="center">
-  <img src="./banner_inicio.jpg" alt="Banner del proyecto Beacoder" width="100%" />
-</p>
+<a href="https://www.canva.com/design/DAGkPScZirE/osXT9vjZ6svGVvTkGQLBuA/edit?utm_content=DAGkPScZirE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+  <img src="./logo.png" alt="Banner del proyecto Beacoder" width="100%" />
+</a>
+
+<img src="
 
 # 🚀 Beacoder_app  
 **Código para una app ejemplo de estudiantes en Riwi**
