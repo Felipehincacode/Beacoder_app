@@ -3,7 +3,7 @@
   <img src="./banner_inicio.jpg" alt="Banner del proyecto Beacoder" width="100%" />
 </p>
 
-# 🚀 Beacoder_app
+# 🚀 Beacoder_app  
 **Código para una app ejemplo de estudiantes en Riwi**
 
 ---
@@ -91,6 +91,54 @@
 <p align="center">
   <img src="./code.png" alt="Vista previa del algoritmo" width="600"/>
 </p>
+
+---
+
+## 🧪 Bloque 5 – Pruebas (10 min)
+
+👤 **Responsable:** Juan Pablo
+
+🧬 **Redactar 3 casos de prueba funcionales:**
+
+1. **Registro exitoso de usuario**
+   - **Dado:** un formulario con campos válidos (nombre de usuario y contraseñas coincidentes)  
+   - **Cuando:** el usuario hace clic en "Registrarse"  
+   - **Entonces:** se crea la cuenta y redirige al login
+
+2. **Inicio de sesión con credenciales correctas**
+   - **Dado:** un usuario registrado  
+   - **Cuando:** introduce su usuario y contraseña correctamente  
+   - **Entonces:** puede acceder a la plataforma
+
+3. **Restricción de acceso sin código de Riwi**
+   - **Dado:** un formulario de registro  
+   - **Cuando:** un usuario sin código Riwi intenta registrarse  
+   - **Entonces:** el sistema muestra un mensaje de error e impide el acceso
+
+⚠️ **Anticipación de posibles errores:**
+
+- Contraseñas que no coinciden → advertencia
+- Usuario ya registrado → alerta y evitar duplicados
+- Campos vacíos o inválidos → bloqueo del formulario
+- Intento de ingreso sin autenticación → redirección al login
+- Fallo del servidor → mensaje de error general
+
+---
+
+## 🚢 Bloque 6 – Despliegue y Mantenimiento (5 min)
+
+👤 **Responsable:** Susana
+
+📦 **Estrategia de despliegue:**
+
+- 🚀 **Frontend:** Deploy en [Netlify](https://www.netlify.com/) o [Vercel](https://vercel.com/)
+- 🛠️ **Backend y Base de datos:** [Render](https://render.com/) o servidor propio con MongoDB Atlas
+- 🛍️ **Almacenamiento futuro:** Stores tipo Google Play, App Store si se convierte en PWA o app móvil
+
+🛠️ **Mejoras futuras:**
+
+1. 🎯 Sistema de logros y recompensas por hitos
+2. 🌐 Soporte para múltiples idiomas e internacionalización
 
 ---
 
