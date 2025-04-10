@@ -1,6 +1,7 @@
 <!-- 🌈 BANNER INICIAL -->
 <a href="https://www.canva.com/design/DAGkPScZirE/osXT9vjZ6svGVvTkGQLBuA/edit?utm_content=DAGkPScZirE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-  <img src="./logo.png" alt="Banner del proyecto Beacoder" width="100%" />
+          <img src="./logo.png" alt="Banner del proyecto Beacoder" width="100%" />
+          <h1>  <font color="red" > Beacoder </font>      </h1>
 </a>
 
 <img src="
